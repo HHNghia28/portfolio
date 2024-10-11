@@ -570,7 +570,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects utilize a wide range of the latest technological tools. With each project, I gained valuable experience and skills, allowing me to continuously upgrade my knowledge and expertise. This exposure not only enhanced my technical capabilities but also fostered my ability to adapt to new challenges and collaborate effectively within diverse teams.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -581,29 +581,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -612,7 +590,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with backend development.",
   },
   blogSection: {
     title: "Blogs",
