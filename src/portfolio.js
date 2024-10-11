@@ -539,7 +539,7 @@ const experience = {
           company: "IIT JSC",
           company_url: "https://iit.vn/",
           logo_path: "iit.png",
-          duration: "Feb 2024 - Dec 2024",
+          duration: "Feb 2024 - Since",
           location: "Can Tho, Viet Nam",
           description:
             "During my time working here, it has been a significant step forward in deepening my skills as a backend developer, including .NET Core, NestJS, API development, and Socket.IO. I also gained knowledge in infrastructure technologies such as Docker and CI/CD, which have been crucial in supporting software development and deployment processes.",
