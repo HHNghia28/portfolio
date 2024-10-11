@@ -2,121 +2,133 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "IIT.VN",
+      "createdAt": "2024-02-01T04:18:19Z",
+      "url": "https://github.com/HHNghia28",
+      "description": "The company's homepage website, featuring the ability to post products and news updates for customers to view",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": ".NET core",
+          "iconifyClass": "devicon:dotnetcore"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "SQL Server",
+          "iconifyClass": "devicon:microsoftsqlserver"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "VIETEDU.ORG",
+      "createdAt": "2024-06-01T04:18:19Z",
+      "url": "https://github.com/HHNghia28",
+      "description": "A corporate website that serves as the homepage, allowing the company to publish both product listings and the latest news.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "NestJS",
+          "iconifyClass": "devicon:nestjs"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "vscode-icons:file-type-pgsql"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "TINHMOC.COM",
+      "createdAt": "2024-07-01T04:18:19Z",
+      "url": "https://github.com/HHNghia28",
+      "description": "The main company website, offering functionality to share new products and announcements directly with users",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "NestJS",
+          "iconifyClass": "devicon:nestjs"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "PostgreSQL",
+          "iconifyClass": "vscode-icons:file-type-pgsql"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Pago New Way of Farming",
+      "createdAt": "2023-05-01T04:18:19Z",
+      "url": "https://github.com/HHNghia28",
+      "description": "Pago is a website that applies technology to crop management in agriculture.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "NestJS",
+          "iconifyClass": "devicon:nestjs"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "PostgreSQL",
+          "iconifyClass": "vscode-icons:file-type-pgsql"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Capstone Project",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/HHNghia28",
+      "description": "The development of the E-School Digitalization System: Online Register Notebook (ORB) focuses on managing online register notebooks, accounts, timetables, attendances,notifications, marks, class, and subjects. It further facilitates quick and convenient tracking of statistics. ORB is increasingly prospects in the current context with the Prime Minister's approval of Decision No. 749/QĐ-TTg, endorsing the 'Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030'. This decree not only reinforces the state's commitment to the adoption and development of digital technology but also establishes a significant policy foundation for educational institutions to undertake digitization, aligning with global technological advancements.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": ".NET core",
+          "iconifyClass": "devicon:dotnetcore"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "devicon:microsoftsqlserver"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "CampusEats",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://github.com/HHNghia28",
+      "description": "The development of the E-School Digitalization System: Online Register Notebook (ORB) focuses on managing online register notebooks, accounts, timetables, attendances, notifications, marks, class, and subjects. I",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": ".NET core",
+          "iconifyClass": "devicon:dotnetcore"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "devicon:microsoftsqlserver"
         }
       ]
     }
